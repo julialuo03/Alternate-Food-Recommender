@@ -1,4 +1,4 @@
-# Alternate-Food-Recommender
+# Alternate Food Recommender
 
 By Julia Luo, Heidi Eren, Conor Doyle, Justin Wang
 
